@@ -1,6 +1,6 @@
 {
   "name": "@sudobility/genui",
-  "version": "0.1.118",
+  "version": "0.1.119",
   "description": "Render tree driven React renderer for Kotlin-style renderable payloads",
   "type": "module",
   "main": "dist/index.js",
@@ -36,9 +36,9 @@
   "author": "John Q Huang",
   "packageManager": "bun@1.3.10",
   "peerDependencies": {
-    "@sudobility/components": "^5.3.33",
-    "@sudobility/design": "^1.1.58",
-    "@sudobility/genui_types": "^0.0.3",
+    "@sudobility/components": "^5.3.36",
+    "@sudobility/design": "^1.1.60",
+    "@sudobility/genui_types": "^0.0.4",
     "@vis.gl/react-google-maps": "^1.8.3",
     "react": ">=18.0.0",
     "react-dom": ">=18.0.0",
@@ -73,5 +73,9 @@
     "access": "restricted"
   },
   "license": "BUSL-1.1",
-  "dependencies": {}
+  "dependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Sudobility/genui.git"
+  }
 }
