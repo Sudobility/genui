@@ -337,13 +337,9 @@
 
     "@rushstack/ts-command-line": ["@rushstack/ts-command-line@5.3.4", "", { "dependencies": { "@rushstack/terminal": "0.22.4", "@types/argparse": "1.0.38", "argparse": "~1.0.9", "string-argv": "~0.3.1" } }, "sha512-MLkVKVEN6/2clKTrjN2B2KqKCuPxRwnNsWY7a+FCAq2EMdkj10cM8YgiBSMeGFfzM0mDMzargpHNnNzaBi9Whg=="],
 
-    "@sudobility/components": ["@sudobility/components@5.0.41", "https://npm.pkg.github.com/@sudobility/components/-/components-5.0.41.tgz", { "optionalDependencies": { "@rollup/rollup-linux-x64-gnu": "4.52.5", "@rollup/rollup-linux-x64-musl": "4.52.5" }, "peerDependencies": { "@heroicons/react": ">=2.0.0", "@radix-ui/react-alert-dialog": ">=1.0.0", "@radix-ui/react-dialog": ">=1.0.0", "@radix-ui/react-label": ">=2.0.0", "@radix-ui/react-select": ">=2.0.0", "@radix-ui/react-slot": ">=1.0.0", "@radix-ui/react-switch": ">=1.0.0", "@radix-ui/react-tabs": ">=1.0.0", "@sudobility/design": "^1.1.25", "@sudobility/types": "^1.9.61", "class-variance-authority": ">=0.7.0", "clsx": ">=2.0.0", "i18next": ">=23.0.0", "react": ">=18.0.0", "react-dom": ">=18.0.0", "react-i18next": ">=14.0.0", "react-router-dom": ">=6.0.0", "tailwind-merge": ">=2.0.0", "web-vitals": ">=3.0.0" } }, "sha512-2qIILvSVQnTrdAXLZAlcKgS4nGtmKMkpXQNfw47hjpJnsivuabO4VKEQO8l2WJ0f2Wu81RJfvERqoFRoV7wKvQ=="],
 
-    "@sudobility/design": ["@sudobility/design@1.1.25", "https://npm.pkg.github.com/@sudobility/design/-/design-1.1.25.tgz", { "peerDependencies": { "clsx": ">=2.0.0", "tailwind-merge": ">=2.0.0" } }, "sha512-D3r8KxwYTyzoxwK9Ud8CqtcW51s7PdgJ19MvDDNpSnIUSkF9rusJ6DOqEyqGTZyslI6asFid5pJXy6/XrIGbAg=="],
 
-    "@sudobility/genui_types": ["@sudobility/genui_types@0.0.1", "https://npm.pkg.github.com/@sudobility/genui_types/-/genui_types-0.0.1.tgz", {}, "sha512-upYoJVpy2y+cgIW2TwJtMuPhxzis42Dk5X6UtViTSh61GwnWofwK2atXsOrtDXPFj9vMrxJOVEOEu8UDR90p7g=="],
 
-    "@sudobility/types": ["@sudobility/types@1.9.61", "https://npm.pkg.github.com/@sudobility/types/-/types-1.9.61.tgz", {}, "sha512-SODGpstB/iKfK3H/4BvJx/FBcc1h3gutUjGotyxN19VnOfWyzaDoEmW7eyoxOAYhZyXMXagSiii+NIEZvuxKog=="],
 
     "@testing-library/dom": ["@testing-library/dom@10.4.1", "", { "dependencies": { "@babel/code-frame": "^7.10.4", "@babel/runtime": "^7.12.5", "@types/aria-query": "^5.0.1", "aria-query": "5.3.0", "dom-accessibility-api": "^0.5.9", "lz-string": "^1.5.0", "picocolors": "1.1.1", "pretty-format": "^27.0.2" } }, "sha512-o4PXJQidqJl82ckFaXUeoAW+XysPLauYI43Abki5hABd853iMhitooc6znOnczgbTYmEP6U6/y1ZyKAIsvMKGg=="],
 
