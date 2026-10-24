@@ -1,6 +1,6 @@
 {
   "name": "@sudobility/genui",
-  "version": "0.1.121",
+  "version": "0.1.122",
   "description": "Render tree driven React renderer for Kotlin-style renderable payloads",
   "type": "module",
   "main": "dist/index.js",
