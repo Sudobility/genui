@@ -1,6 +1,6 @@
 {
   "name": "@sudobility/genui",
-  "version": "0.1.120",
+  "version": "0.1.121",
   "description": "Render tree driven React renderer for Kotlin-style renderable payloads",
   "type": "module",
   "main": "dist/index.js",
@@ -38,7 +38,7 @@
   "peerDependencies": {
     "@sudobility/components": "^5.3.44",
     "@sudobility/design": "^1.1.66",
-    "@sudobility/genui_types": "^0.0.4",
+    "@sudobility/genui_types": "^0.0.5",
     "@vis.gl/react-google-maps": "^1.8.3",
     "react": ">=18.0.0",
     "react-dom": ">=18.0.0",
